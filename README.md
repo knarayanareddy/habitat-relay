@@ -1,6 +1,9 @@
 # Habitat Relay
 
-A local-first Twitch experience where chat votes on a three-round **illustrative pollinator-habitat scenario**. The streamer reviews and approves every decision. The OBS overlay shows the shared state, sources, and vote counts. It makes no claim that game metrics are ecological measurements or that a virtual choice causes real-world restoration.
+> 🌐 **Live Demo Available:** [https://habitat-relay.onrender.com](https://habitat-relay.onrender.com)  
+> *Test the interactive studio, sample audience voting, and real-time OBS overlay directly in your browser without local installation.*
+
+A streamer-led, community-powered pollinator habitat simulation for Twitch. Chat votes on a three-round **illustrative pollinator-habitat scenario**. The streamer reviews and approves every decision. The OBS overlay shows the shared state, sources, and vote counts. It makes no claim that game metrics are ecological measurements or that a virtual choice causes real-world restoration.
 
 ## What is implemented
 
